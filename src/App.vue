@@ -18,19 +18,19 @@ export default {
     return {
       people: [
         {
-          name: "Neel",
+          name: "John",
           phone: "888-111-2222",
         },
         {
-          name: "Abhijeet",
+          name: "Michael",
           phone: "888-222-3333",
         },
         {
-          name: "Ruchir",
+          name: "Ed",
           phone: "888-333-4444",
         },
         {
-          name: "Falguni",
+          name: "Ralph",
           phone: "888-444-5555",
         },
       ],
